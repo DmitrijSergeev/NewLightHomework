@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DmitrijSergeev/NewLightHomework/static/css/main.073c9b0a.css",
+    "main.js": "/DmitrijSergeev/NewLightHomework/static/js/main.18c4ff13.js",
+    "static/js/787.177e23c2.chunk.js": "/DmitrijSergeev/NewLightHomework/static/js/787.177e23c2.chunk.js",
+    "index.html": "/DmitrijSergeev/NewLightHomework/index.html",
+    "main.073c9b0a.css.map": "/DmitrijSergeev/NewLightHomework/static/css/main.073c9b0a.css.map",
+    "main.18c4ff13.js.map": "/DmitrijSergeev/NewLightHomework/static/js/main.18c4ff13.js.map",
+    "787.177e23c2.chunk.js.map": "/DmitrijSergeev/NewLightHomework/static/js/787.177e23c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.18c4ff13.js"
+  ]
+}

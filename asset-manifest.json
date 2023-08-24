@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/NewLightHomework/static/css/main.073c9b0a.css",
-    "main.js": "/NewLightHomework/static/js/main.aa3d1dba.js",
+    "main.js": "/NewLightHomework/static/js/main.2d11a763.js",
     "static/js/787.177e23c2.chunk.js": "/NewLightHomework/static/js/787.177e23c2.chunk.js",
     "index.html": "/NewLightHomework/index.html",
     "main.073c9b0a.css.map": "/NewLightHomework/static/css/main.073c9b0a.css.map",
-    "main.aa3d1dba.js.map": "/NewLightHomework/static/js/main.aa3d1dba.js.map",
+    "main.2d11a763.js.map": "/NewLightHomework/static/js/main.2d11a763.js.map",
     "787.177e23c2.chunk.js.map": "/NewLightHomework/static/js/787.177e23c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.aa3d1dba.js"
+    "static/js/main.2d11a763.js"
   ]
 }

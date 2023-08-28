@@ -26,7 +26,6 @@ export const HW3 = () => {
     setTexts( [...texts, currentText] )
       setCurrentText('')
   };
-
   return (
     <div id={'hw03'}>
       {currentText ? (
